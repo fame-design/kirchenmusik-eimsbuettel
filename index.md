@@ -36,35 +36,26 @@ KONZERTE IN DER APOSTELKIRCHE: [hier](/assets/pdf/Ja-pl-14.pdf){:target="_blank"
 
 AKTUELL:
 
-XVII. INTERNATIONALER
-EIMSBÜTTLER
-ORGELSOMMER
-Orgelkonzerte, Sonnabends um 12 Uhr
-in der Christuskirche
-vom 29. Juni bis 10. August
-Das Gesamtprogramm finden Sie unter:
-[http://pdf.ieor.de/ieor_konzerte.pdf](http://pdf.ieor.de/ieor_konzerte.pdf){:target="_blank"}
-
-Gesungenes Abendgebet,
-Vesper, EG 785:
-jeden Freitag von 19:30 Uhr bis 20 Uhr
+Gesungenes Abendgebet,  
+Vesper, EG 785:  
+jeden Freitag von 19:30 Uhr bis 20 Uhr  
 in der Christuskirche
 
-An jedem Sonnabend um 17.45 Uhr:
-Choralblasen des Wochenliedes der kommenden Woche vom Turm der Christuskirche
-mit den Türmern an der Christuskirche
+An jedem Sonnabend um 17.45 Uhr:  
+Choralblasen des Wochenliedes der kommenden Woche vom Turm der Christuskirche  
+mit den Türmern an der Christuskirche  
 [tuermerplan](/assets/pdf/tuermerplan_hp.pdf){:target="_blank"}
 <!-- [http://kirchenmusik-eimsbuettel.de/images/pdf/tuermerplan_hp.pdf](http://kirchenmusik-eimsbuettel.de/images/pdf/tuermerplan_hp.pdf) -->
 
-Aktuelle Mitteilungen
-an die Eimsbüttler Kantorei
+Aktuelle Mitteilungen  
+an die Eimsbüttler Kantorei  
 [Probenplan](/assets/pdf/probenplan.pdf){:target="_blank"}
 <!-- Probenplan: [http://kirchenmusik-eimsbuettel.de/images/pdf/probenplan.pdf](http://kirchenmusik-eimsbuettel.de/images/pdf/probenplan.pdf) -->
 
-Aktuelle Mitteilungen
-an die schola cantorum st. stephanus
+Aktuelle Mitteilungen  
+an die schola cantorum st. stephanus  
 [Probenplan](/assets/pdf/proben.pdf){:target="_blank"}
 <!-- Probenplan: [http://kirchenmusik-eimsbuettel.de/images/pdf/proben.pdf](http://kirchenmusik-eimsbuettel.de/images/pdf/proben.pdf) -->
 
-Das Wetter in Eimsbüttel:
+Das Wetter in Eimsbüttel:  
 [http://www.wetter.de/deutschland/wetter-hamburg-18219464/wetterprognose.html](http://www.wetter.de/deutschland/wetter-hamburg-18219464/wetterprognose.html){:target="_blank"}
