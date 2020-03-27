@@ -13,217 +13,105 @@ An jedem Sonnabend um 17.45 Uhr:
 **Choralblasen des Wochenliedes der kommenden Woche vom Turm der Christuskirche**  
 mit den Türmern an der Christuskirche  
 
-# KONZERTE 2019
+# KONZERTE 2020
 
-**ORGELSTADT** HAMBURG  
-ARP SCHNITGER & ORGELJAHR 2019  
-
-Christuskirche, Sa. 5.1.2019  
+Christuskirche, Sa. 4.1.2020  
 um 18 Uhr  
 **NEUJAHRSKONZERT**  
-Constanze Kowalski  
-Orgel  
+Trio Cantrolegro
 
-Christuskirche, Mi, 16.1.2019  
-um 17 Uhr  
-**DIE ORGELMAUS**  
-Orgelführung für Kinder  
-Cathy Nassauer  
-Orgelmaus  
-Constanze Kowalski  
-Orgel  
-
-Apostelkirche, Sa, 26.1.2019  
-um 18 Uhr  
-**KONZERT**  
-Christina Theede  
-Flöte  
-Maria Narodytska  
-Klavier  
-
-Apostelkirche, So, 27.1.2019  
-um 10 Uhr  
-**POPGOTTESDIENST**  
-Christian Gosch  
-Leitung  
-
-Christuskirche, So, 17.2.2019  
-um 11 Uhr  
-**CHORMUSIK ALTER MEISTER**  
-Gottesdienst  
-schola cantorum st. stephanus  
-Friedemann Kannengießer  
-Leitung  
-
-Apostelkirche, So, 24.2.2019  
-um 10 Uhr  
-**POPGOTTESDIENST**  
-Christian Gosch  
-Leitung  
-
-Christuskirche, So, 2.3.2019  
-um 20 Uhr  
-**VOCALQUARTETT UND ORGEL**  
-Das Freitagsquartett  
-Friedemann Kannengießer  
-Orgel  
-
-Christuskirche, Mi, 20.3.2019  
-um 20 Uhr  
-**CHORMUSIK ALTER MEISTER**  
-Abschiedskonzert des Kantors  
-schola cantorum st. stephanus  
-Friedemann Kannengießer  
-Leitung und Orgel  
-
-Christuskirche, Sa, 6.4.2019  
-um 19 Uhr  
-**BACH - JOHANNESPASSION**  
-Eimsbüttler Kantorei  
-Constanze Kowalski  
-Leitung  
-
-Christuskirche, Karfreitag, 19.4.2019  
-um 15 Uhr  
-**MUSIK ZUR TODESSTUNDE**  
-Choralschola der Eimsbüttler Kantorei  
-Constanze Kowalski  
-Leitung und Orgel  
-
-Apostelkirche, Ostermontag, 22.4.2019  
-um 10 Uhr  
-Festgottesdienst  
-**TROUVÉRE-MESSE**  
-von Petr Eben  
-Eimsbüttler Kinder- und Jugendchor  
-Constanze Kowalski  
-Leitung  
-
-Christuskirche, Pfingstmontag, 10.6.2019  
-um 18 Uhr  
-**ORGELVESPER  
-VENI CREATOR SPIRITUS**  
-Thorsten Schuck  
-Bariton  
-Constanze Kowalski  
-Orgel  
-
-Hauptkirche St. Petri, Sa. 15.6.2019  
-um ca. 15:30 Uhr  
-Nacht der Chöre  
-**TROUVÉRE-MESSE**  
-von Petr Eben  
-Eimsbüttler Kinder- und Jugendchor  
-Constanze Kowalski  
-Leitung  
-
-Christuskirche, Mi, 19.6.2019  
-um 20 Uhr  
-**KAMMERKONZERT**  
-San Marco Chamber Music Society (USA)  
-
-Christuskirche, Sa, 29.6.2019  
-um 12 Uhr  
-**XVII. INTERNATIONALER EIMSBÜTTLER ORGELSOMMER**  
-Eröffnungskonzert  
-Constanze Kowalski  
-Orgel  
-
-Christuskirche, Sa, 6.7.2019  
-um 12 Uhr  
-**XVII. INTERNATIONALER EIMSBÜTTLER ORGELSOMMER**  
-Prof. Geffert, Köln  
-Orgel  
-
-Christuskirche, Sa, 13.7.2019  
-um 12 Uhr  
-**XVII. INTERNATIONALER EIMSBÜTTLER ORGELSOMMER**  
-Minji Choi, Südkorea  
-Orgel  
-
-Christuskirche, Sa, 20.7.2019  
-um 12 Uhr  
-**XVII. INTERNATIONALER EIMSBÜTTLER ORGELSOMMER**  
-Pater Ralph Greis, Jerusalem  
-Orgel  
-
-Christuskirche, Sa, 27.7.2019  
-um 12 Uhr  
-**XVII. INTERNATIONALER EIMSBÜTTLER ORGELSOMMER**  
-DUO ZIA  
-Marcus Rust  
-Trompete  
-Christian Grosch  
-Orgel  
-
-Christuskirche, Sa, 3.8.2019  
-um 12 Uhr  
-**XVII. INTERNATIONALER EIMSBÜTTLER ORGELSOMMER**  
-Hubert Hübner, Wetzlar  
-Orgel  
-
-Christuskirche, Sa, 10.8.2019  
-um 12 Uhr  
-**XVII. INTERNATIONALER EIMSBÜTTLER ORGELSOMMER**  
-Ute Rendar, Schweiz  
-Orgel  
-
-## TAGE ALTER MUSIK 2019  
-Christuskirche, Mi, 23.10. 2019  
-um 20 Uhr  
-**ORGELKONZERT**  
-Kalkanten der Christuskirche  
-Eröffnungskonzert  
-
-Christuskirche, Fr, 25.10.2019  
-um 19:30 Uhr  
-**GESUNGENES ABENDGEBET**  
-Vespergruppe  
-
-Christuskirche, Sa, 26.10.2019  
-um 20 Uhr  
-**KONZERT**  
-Cantar e Trobar  
-
-Christuskirche, So, 27.10.2019  
+Christuskirche, So, 19.1.2020  
 um 11 Uhr  
 **MUSIK IM GOTTESDIENST**  
+Gabriele Steinfeld  
+Barockvioline  
+Constanze Kowalski  
+Orgel 
 
-Christuskirche, So, 27.10.2019  
-um 20 Uhr  
-**ABSCHLUSSKONZERT**  
-Ludwig Frankmar  
-Barockcello Solo  
+Christuskirche, So, 1.3.2020  
+um 11 Uhr  
+**MUSIK IM GOTTESDIENST**  
+Das Freitagsquartett  
+Constanze Kowalski  
+Orgel
 
+Christuskirche, Fr, 10.4.2020  
+um 15 Uhr  
+**ORGEL UND GREGORIANIK**  
+Musik zur Todesstunde Jesu  
+Choralschola der Eimsbüttler Kantorei  
+Constanze Kowalski  
+Leitung und Orgel
 
-Apostelkirche, So, 20.10.2019  
+Apostelkirche, Mo, 13.4.2020  
 um 10 Uhr  
-**KINDERBIBELWOCHE**  
+**MUSIK IM GOTTESDIENST**  
+Eimsbüttler Kinderchor  
+Constanze Kowalski  
+Leitung
 
-Apostelkirche, Sa, 26.10.2019  
-um 16 Uhr  
-**KINDERKONZERT**  
-
-Christuskirche, Sa, 16.11.2019  
-um  20 Uhr  
-**ORGELKONZERT**  
-Friedemann Kannengießer  
-Orgel  
-
-Christuskirche, Sa, 7.12.2019  
-um 19 Uhr  
-**SAINT-SAENS: WEIHNACHTSORATORIUM  
-AGNETA SKÖLD: MAGNIFICAT**  
+Christuskirche, So, 10.5.2020  
+um 11 Uhr  
+**MUSIK IM GOTTESDIENST**  
 Eimsbüttler Kantorei  
 Constanze Kowalski  
-Leitung  
+Leitung
 
-Christuskirche, Sa, 21.12.2019  
+Christuskirche, Mo, 1.6.2020  
 um 18 Uhr  
-**DER QUEMPAS**  
-Chöre an der Christuskirche  
+**ORGELVESPER**  
+**VENI CREATOR SPIRITUS**  
 Constanze Kowalski  
-Leitung und Orgel  
-________________________________________
+Orgel
+
+Christuskirche, So, 6.6.2020  
+um 20 Uhr  
+**MOTETTE**  
+Eimsbüttler Kantorei  
+Constanze Kowalski  
+Leitung und Orgel
+
+Christuskirche, Sa, 27.6.2020  
+um 12 Uhr  
+**XVIII. INTERNATIONALER EIMSBÜTTLER ORGELSOMMER**  
+Eröffnungskonzert  
+Wieland Meinhold  
+Orgel
+
+Christuskirche, Sa, 4.7.2020  
+um 12 Uhr  
+**XVIII. INTERNATIONALER EIMSBÜTTLER ORGELSOMMER**  
+Fumi Takada  
+Orgel
+
+Christuskirche, Sa, 11.7.2020  
+um 12 Uhr  
+**XVIII. INTERNATIONALER EIMSBÜTTLER ORGELSOMMER**  
+Dominik Sustek  
+Orgel
+
+Christuskirche, Sa, 18.7.2020  
+um 12 Uhr  
+**XVIII. INTERNATIONALER EIMSBÜTTLER ORGELSOMMER**  
+Friedemann Kannengießer  
+Orgel
+
+Christuskirche, Sa, 25.7.2020  
+um 12 Uhr  
+**XVIII. INTERNATIONALER EIMSBÜTTLER ORGELSOMMER**  
+Aeja Son  
+Orgel
+
+Christuskirche, Sa, 1.8.2020  
+um 12 Uhr  
+**XVIII. INTERNATIONALER EIMSBÜTTLER ORGELSOMMER**  
+Jasmin Zaboli  
+Orgel
+
+Christuskirche, Sa, 8.8.2020  
+um 12 Uhr  
+**XVIII. INTERNATIONALER EIMSBÜTTLER ORGELSOMMER**  
+Constanze Kowalski  
+Orgel
 
 ÄNDERUNGEN VORBEHALTEN!
