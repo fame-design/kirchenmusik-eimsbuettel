@@ -4,7 +4,7 @@ title: Verein
 permalink: /verein/
 order: 4
 ---
-Der Freundeskreis der Kirchenmusik  
+## Der Freundeskreis der Kirchenmusik  
 an der Ev.-luth. Kirchengemeinde Eimsbüttel e.V. unterstützt und fördert die Kirchenmusik in der Kirchengemeinde Eimsbüttel und ermöglicht die Aufführung und Finanzierung von anspruchsvollen Musikwerken und das Engagement von Orchestern und Solisten für die Aufführungen.
 
 Jahresbeitrag für natürliche Personen mindestens 48 €  
@@ -25,6 +25,7 @@ Bei der Apostelkirche,
 20257 Hamburg  
 c/o Freundeskreis der Kirchenmusik  
 christianbonorden@alice-dsl.de  
+
 Stellvertretende Vorsitzende:  
 Kirchenmusikerin Constanze Kowalski  
 Bei der Apostelkirche,  
