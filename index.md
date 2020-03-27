@@ -56,6 +56,3 @@ Aktuelle Mitteilungen
 an die schola cantorum st. stephanus  
 [Probenplan](/assets/pdf/proben.pdf){:target="_blank"}
 <!-- Probenplan: [http://kirchenmusik-eimsbuettel.de/images/pdf/proben.pdf](http://kirchenmusik-eimsbuettel.de/images/pdf/proben.pdf) -->
-
-Das Wetter in Eimsbüttel:  
-[http://www.wetter.de/deutschland/wetter-hamburg-18219464/wetterprognose.html](http://www.wetter.de/deutschland/wetter-hamburg-18219464/wetterprognose.html){:target="_blank"}
