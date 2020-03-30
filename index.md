@@ -36,6 +36,8 @@ KONZERTE IN DER APOSTELKIRCHE: [hier](/assets/pdf/Ja-pl-14.pdf){:target="_blank"
 
 AKTUELL:
 
+Zur Zeit müssen alle Veranstaltungen wegen der Vermeidung der weiteren Ausbreitung der Corona-Viren ausfallen. Online-Andachten finden Sie unter [www.ev-ke.de](https://www.ev-ke.de){target="_blank"}
+
 Gesungenes Abendgebet,  
 Vesper, EG 785:  
 jeden Freitag von 19:30 Uhr bis 20 Uhr  
@@ -45,14 +47,11 @@ An jedem Sonnabend um 17.45 Uhr:
 Choralblasen des Wochenliedes der kommenden Woche vom Turm der Christuskirche  
 mit den Türmern an der Christuskirche  
 [tuermerplan](/assets/pdf/tuermerplan_hp.pdf){:target="_blank"}
-<!-- [http://kirchenmusik-eimsbuettel.de/images/pdf/tuermerplan_hp.pdf](http://kirchenmusik-eimsbuettel.de/images/pdf/tuermerplan_hp.pdf) -->
 
 Aktuelle Mitteilungen  
 an die Eimsbüttler Kantorei  
 [Probenplan](/assets/pdf/probenplan.pdf){:target="_blank"}
-<!-- Probenplan: [http://kirchenmusik-eimsbuettel.de/images/pdf/probenplan.pdf](http://kirchenmusik-eimsbuettel.de/images/pdf/probenplan.pdf) -->
 
 Aktuelle Mitteilungen  
 an die schola cantorum st. stephanus  
 [Probenplan](/assets/pdf/proben.pdf){:target="_blank"}
-<!-- Probenplan: [http://kirchenmusik-eimsbuettel.de/images/pdf/proben.pdf](http://kirchenmusik-eimsbuettel.de/images/pdf/proben.pdf) -->

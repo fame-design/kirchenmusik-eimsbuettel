@@ -81,7 +81,7 @@ Orgel
 Christuskirche, Sa, 4.7.2020  
 um 12 Uhr  
 **XVIII. INTERNATIONALER EIMSBÜTTLER ORGELSOMMER**  
-Fumi Takada  
+Regine Schütz  
 Orgel
 
 Christuskirche, Sa, 11.7.2020  
