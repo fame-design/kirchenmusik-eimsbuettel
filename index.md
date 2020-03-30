@@ -36,7 +36,7 @@ KONZERTE IN DER APOSTELKIRCHE: [hier](/assets/pdf/Ja-pl-14.pdf){:target="_blank"
 
 AKTUELL:
 
-Zur Zeit müssen alle Veranstaltungen wegen der Vermeidung der weiteren Ausbreitung der Corona-Viren ausfallen. Online-Andachten finden Sie unter [www.ev-ke.de](https://www.ev-ke.de){target="_blank"}
+Zur Zeit müssen alle Veranstaltungen wegen der Vermeidung der weiteren Ausbreitung der Corona-Viren ausfallen. Online-Andachten finden Sie unter [www.ev-ke.de](https://www.ev-ke.de){:target="_blank"}
 
 Gesungenes Abendgebet,  
 Vesper, EG 785:  
