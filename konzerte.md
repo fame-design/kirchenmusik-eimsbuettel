@@ -99,7 +99,7 @@ Orgel
 Christuskirche, Sa, 25.7.2020  
 um 12 Uhr  
 **XVIII. INTERNATIONALER EIMSBÜTTLER ORGELSOMMER**  
-Aeja Son  
+Constanze Kowalski  
 Orgel
 
 Christuskirche, Sa, 1.8.2020  
@@ -112,6 +112,8 @@ Christuskirche, Sa, 8.8.2020
 um 12 Uhr  
 **XVIII. INTERNATIONALER EIMSBÜTTLER ORGELSOMMER**  
 Constanze Kowalski  
-Orgel
+Orgel  
+Gabriele Steinfeld  
+Barockvioline
 
 ÄNDERUNGEN VORBEHALTEN!
