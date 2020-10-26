@@ -91,7 +91,7 @@ Mechanische Spiel- und Registertraktur
 ￼
 
 # Die Truhenorgel
-{% asset truhenorgel.jpg %}  
+![truhen orgel]({{ site.url }}/assets/image/truhenorgel.jpg)
 gebaut von der Fa. Quathamer, Bordesholm, 2008
 
 Gedackt 8'  
