@@ -46,7 +46,7 @@ Elektrische Registertraktur
 Setzeranlage  
 
 # Die große Orgel in der Christuskirche in Hamburg Eimsbüttel
-{% asset orgelhoch2.jpg %}  
+![orgel hoch]({{ site.url }}/assets/image/orgelhoch2.jpg)  
 gebaut von der Firma Rudolf von Beckerath,  
 Hamburg (1956), restauriert 2008
 
