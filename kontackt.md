@@ -5,7 +5,7 @@ permalink: /kontakt/
 order: 7
 ---
 
-{% asset DSC_2690_pp.jpg %}  
+![constanze kowalski]({{ site.url }}/assets/image/DSC_2690_pp.jpg)  
 Regionalkantorin Hamburg-Eimsbüttel
 
 Bei der Christuskirche 2 (Gemeindehaus, Erdgeschoss)  
