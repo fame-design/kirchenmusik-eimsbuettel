@@ -5,7 +5,7 @@ permalink: /orgeln/
 order: 5
 ---
 # Die große Orgel in der Apostelkirche in Hamburg Eimsbüttel
-{% asset orgelapostelneu.jpg %}  
+![orgel]({{ site.url }}/assets/image/orgelapostelneu.jpg)
 gebaut von der Firma Jehmlich Orgelbau, Dresden  
 (1984) restauriert 2009  
 

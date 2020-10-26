@@ -6,6 +6,7 @@ order: 2
 ---
 
 {% asset konzerttermine.jpg %}
+![konzerttermine]({{ site.url }}/assets/image/konzerttermine.jpg)
 
 ## Konzerte in Eimsbüttels Kirchen
 

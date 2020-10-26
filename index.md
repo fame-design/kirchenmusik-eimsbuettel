@@ -8,7 +8,9 @@ permalink: /
 order: 1
 ---
 
-{% asset willkommen.jpg %}
+# {% asset willkommen.jpg %}
+
+![willkommen]({{ site.url }}/assets/image/willkommen.jpg)
 
 Liebe Freunde und Freundinnen
 der Eimsbüttler Kirchenmusik!

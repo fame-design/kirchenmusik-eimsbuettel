@@ -15,7 +15,7 @@ IBAN: DE96 5206 0410 0006 4273 40
 
 Beitrittsformulare liegen in der Christuskirche und in der Apostelkirche aus, können per E-Mail (siehe Vorstand) angefordert oder [hier](/assets/pdf/beitrittserklaerung.pdf){:target="_blank"} (Beitrittserklaerung) ausgedruckt werden. Die diesjährige Jahresmitgliederversammlung fand am 29.04.2018 statt
 
-{% asset logoneuschwarzwei2.jpg %}
+![logo neu schwarzweiss]({{ site.url }}/assets/image/logoneuschwarzwei2.jpg)
 
 Der am 24.4.2016 neu gewählte Vorstand:  
 
@@ -40,6 +40,6 @@ Neuer Wall 44
 Tel. 040 / 88230620  
 thomas.bartling@expertwpg.de  
 
-{% asset vorstand2016.jpg %}
+![vorstand 2016]({{ site.url }}/assets/image/vorstand2016.jpg)
 
 Der am 24.4.2016 neu gewählte Vorstand von links nach rechts: Thomas Bartling, Constanze Kowalski, Christian Bonorden

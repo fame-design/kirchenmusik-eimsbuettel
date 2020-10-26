@@ -22,7 +22,7 @@ Proben: Donnerstags, 20 Uhr
 
 **[hier](/assets/pdf/probenplan.pdf){:target="_blank"} der Probenplan**
 
-{% asset alle_klein.jpg alt='Eimsbüttler Kantorei' %}
+![alle klein]({{ site.url }}/assets/image/alle_klein.jpg)
 
 Eimsbüttler Kantorei (Foto: Katharina Hansen-Gluschitz)
 
@@ -37,7 +37,7 @@ Proben: Montags, 20 Uhr
 
 **[hier](/assets/pdf/proben.pdf){:target="_blank"} der Probenplan**
 
-{% asset probentermine2.jpg %}
+![proben termine]({{ site.url }}/assets/image/probentermine2.jpg)
 
 (Vor dem Konzert in der
 Neustädter Pfarrkirche St. Michael und Gertrud)
