@@ -19,8 +19,8 @@ Christuskirche, Sa, 17.7.2021
 um 12 Uhr  
 **XIX. INTERNATIONALER EIMSBÜTTLER ORGELSOMMER**  
 **Christina Kristin Denef** Flöte  
-**Christina Kristin Denef** Flöte  
-Andreas Fabienke Orgel  
+**Christina Matthei** Flöte  
+**Andreas Fabienke** Orgel  
 
 Christuskirche, Sa, 24.7.2021  
 um 12 Uhr  
